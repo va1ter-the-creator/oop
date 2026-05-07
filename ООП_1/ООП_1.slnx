@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="DocsLib/DocsLib.csproj" Id="e54659ea-f31f-4da9-861a-f8246ec544cd" />
+  <Project Path="лаб_10/лаб_10.csproj" Id="d77d67cd-0351-4c78-b4f7-442d85885f78" />
+  <Project Path="лаб_2/лаб_2.csproj" Id="4607f706-1183-4c58-ba03-3a4ed0e42038" />
+  <Project Path="лаб_4/лаб_4.csproj" Id="caa10e9d-efa9-41eb-addf-d1c2c4e4b588" />
+  <Project Path="ООП_1/лаб_1.csproj" Id="18ae6883-6710-4863-9f10-563d8e2b265e" />
+</Solution>

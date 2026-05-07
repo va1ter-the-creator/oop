@@ -1,0 +1,6 @@
+C:\Users\Администратор\Desktop\Учеба\ПНИПУ\4 семестр\ООП\ООП_1\DocsLib\bin\Debug\DocsLib.dll
+C:\Users\Администратор\Desktop\Учеба\ПНИПУ\4 семестр\ООП\ООП_1\DocsLib\bin\Debug\DocsLib.pdb
+C:\Users\Администратор\Desktop\Учеба\ПНИПУ\4 семестр\ООП\ООП_1\DocsLib\obj\Debug\DocsLib.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Учеба\ПНИПУ\4 семестр\ООП\ООП_1\DocsLib\obj\Debug\DocsLib.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Учеба\ПНИПУ\4 семестр\ООП\ООП_1\DocsLib\obj\Debug\DocsLib.dll
+C:\Users\Администратор\Desktop\Учеба\ПНИПУ\4 семестр\ООП\ООП_1\DocsLib\obj\Debug\DocsLib.pdb

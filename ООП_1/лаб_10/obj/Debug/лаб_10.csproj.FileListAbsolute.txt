@@ -1,0 +1,10 @@
+C:\Users\Администратор\Desktop\Учеба\ПНИПУ\4 семестр\ООП\ООП_1\лаб_10\bin\Debug\лаб_10.exe.config
+C:\Users\Администратор\Desktop\Учеба\ПНИПУ\4 семестр\ООП\ООП_1\лаб_10\bin\Debug\лаб_10.exe
+C:\Users\Администратор\Desktop\Учеба\ПНИПУ\4 семестр\ООП\ООП_1\лаб_10\bin\Debug\лаб_10.pdb
+C:\Users\Администратор\Desktop\Учеба\ПНИПУ\4 семестр\ООП\ООП_1\лаб_10\obj\Debug\лаб_10.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Учеба\ПНИПУ\4 семестр\ООП\ООП_1\лаб_10\obj\Debug\лаб_10.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Учеба\ПНИПУ\4 семестр\ООП\ООП_1\лаб_10\obj\Debug\лаб_10.exe
+C:\Users\Администратор\Desktop\Учеба\ПНИПУ\4 семестр\ООП\ООП_1\лаб_10\obj\Debug\лаб_10.pdb
+C:\Users\Администратор\Desktop\Учеба\ПНИПУ\4 семестр\ООП\ООП_1\лаб_10\bin\Debug\DocsLib.dll
+C:\Users\Администратор\Desktop\Учеба\ПНИПУ\4 семестр\ООП\ООП_1\лаб_10\bin\Debug\DocsLib.pdb
+C:\Users\Администратор\Desktop\Учеба\ПНИПУ\4 семестр\ООП\ООП_1\лаб_10\obj\Debug\лаб_10.csproj.Up2Date

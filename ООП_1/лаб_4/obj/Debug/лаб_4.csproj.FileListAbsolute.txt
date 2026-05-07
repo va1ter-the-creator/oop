@@ -1,0 +1,7 @@
+C:\Users\Администратор\Desktop\Учеба\ПНИПУ\4 семестр\ООП\ООП_1\лаб_4\bin\Debug\лаб_4.exe.config
+C:\Users\Администратор\Desktop\Учеба\ПНИПУ\4 семестр\ООП\ООП_1\лаб_4\bin\Debug\лаб_4.exe
+C:\Users\Администратор\Desktop\Учеба\ПНИПУ\4 семестр\ООП\ООП_1\лаб_4\bin\Debug\лаб_4.pdb
+C:\Users\Администратор\Desktop\Учеба\ПНИПУ\4 семестр\ООП\ООП_1\лаб_4\obj\Debug\лаб_4.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Учеба\ПНИПУ\4 семестр\ООП\ООП_1\лаб_4\obj\Debug\лаб_4.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Учеба\ПНИПУ\4 семестр\ООП\ООП_1\лаб_4\obj\Debug\лаб_4.exe
+C:\Users\Администратор\Desktop\Учеба\ПНИПУ\4 семестр\ООП\ООП_1\лаб_4\obj\Debug\лаб_4.pdb
